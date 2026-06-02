@@ -42,8 +42,8 @@ Currently exploring modern web technologies while strengthening my problem-solvi
 </p>
 
 ---
-
-```### 📊 GitHub Stats
+<!--
+### 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vanshgupta-git&show_icons=true&theme=tokyonight" />
@@ -57,8 +57,9 @@ Currently exploring modern web technologies while strengthening my problem-solvi
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgupta-git&theme=tokyonight" />
 </p>
 
----
-```
+--- 
+-->
+
 
 ### 🌐 Connect With Me
 
