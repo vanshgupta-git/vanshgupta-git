@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vansh Gupta</h1>
 
-<h3 align="center">🚀 Computer Science Undergraduate | Aspiring Full-Stack Developer | UI/UX Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer in the Making | React & TypeScript | UI/UX Enthusiast</h3>
 
 <p align="center">
-Passionate about building impactful digital experiences through code, design, and creativity.
-Currently exploring modern web technologies while strengthening my problem-solving skills through DSA.
+Building production features for a live internship while sharpening my problem-solving skills through DSA.
+I care about the details that make software feel good to use, not just work.
 </p>
 
 ---
@@ -12,9 +12,10 @@ Currently exploring modern web technologies while strengthening my problem-solvi
 ### 👨‍💻 About Me
 
 - 🎓 3rd Year Computer Science Student at **RKGIT**
-- 🌱 Currently learning **React.js, DSA in C++**
+- 💼 Web Development Intern at **Gift a Smile Foundation (NIVA)** — building a full-stack attendance system in React, TypeScript, and TanStack Router
+- 🧠 150+ DSA problems solved in **C++**
 - 💡 Interested in **Web Development, UI/UX Design, and Problem Solving**
-- 🎯 Goal: Build scalable and user-friendly applications
+- 🎯 Goal: Build scalable, user-friendly applications that people actually enjoy using
 - ⚡ Fun Fact: I run a roasting channel on YouTube — **@vanshguptaroasts**
 
 ---
@@ -23,7 +24,7 @@ Currently exploring modern web technologies while strengthening my problem-solvi
 
 #### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript" />
 </p>
 
 #### Frontend
@@ -31,14 +32,14 @@ Currently exploring modern web technologies while strengthening my problem-solvi
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
-#### Backend & Database
+#### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 #### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
 
 ---
@@ -59,7 +60,6 @@ Currently exploring modern web technologies while strengthening my problem-solvi
 
 --- 
 -->
-
 
 ### 🌐 Connect With Me
 
@@ -93,20 +93,19 @@ Currently exploring modern web technologies while strengthening my problem-solvi
 
 ### 📄 Resume
 
-[View Resume](https://drive.google.com/file/d/1YESafXrVS1WH3ptk8hLhXeDt8xQqwjZI/view)
+[View Resume](https://drive.google.com/file/d/1EP8gVX3U4NPQdQ1R60m1nw_0hvATES8Z/view?usp=sharing)
 
 ---
 
 ### 🚀 Current Focus
 
+- Building a full-stack intern attendance system with GPS geofencing (React, TypeScript, TanStack Router)
 - Mastering Data Structures & Algorithms
-- Building Full-Stack Projects
-- Learning React Ecosystem
-- Exploring Modern UI/UX Design Trends
+- Deepening backend fundamentals with Node.js and Express
+- Exploring modern UI/UX design trends
 
 ---
 
 <p align="center">
   <i>"Building code by day, creating content by night."</i> 🚀
 </p>
-
