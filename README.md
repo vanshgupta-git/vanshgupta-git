@@ -121,7 +121,7 @@ I care about the details that make software feel good to use, not just work.
 
 ## 📄 Resume
 
-[**View Resume →**](https://drive.google.com/file/d/1EP8gVX3U4NPQdQ1R60m1nw_0hvATES8Z/view?usp=sharing)
+[**View Resume →**](https://drive.google.com/file/d/1GFWxi6btyMEXcnGvyPeneTrK4seHi0u3/view?usp=sharing)
 
 ---
 
